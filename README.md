@@ -1,12 +1,8 @@
-# Diverse Responses and Evaluation  
+# Neural Narrative Generation
 
-**Deep Learning for Automated Discourse: Assignment 4**  
-
-**Alexandra DeLucia, Lisa Li, Aaron Mueller**  
+**Aaron Mueller, Alexandra DeLucia, Lisa Li**  
 
 ## Guide to Repository
-Project instructions on the course website [here](https://dialog-systems-class.github.io/assignment4.html).
-
 To implement the data preprocessing from [DialoGPT](https://arxiv.org/pdf/1911.00536.pdf) and the Maximum Mutual Information (MMI) training objective from [A Diversity-Promoting Objective Function for Neural Conversation Models](https://arxiv.org/abs/1510.03055) we did the following:
 
 1. Created `filter.py` to filter the OpenSubtitles dataset.
